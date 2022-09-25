@@ -5,6 +5,8 @@ Headstarter mock internship project assigned by a product manager from Plivo. Fu
 
 Additional Feature: Users can also locate nearest retailer by clicking the locations modal
 
+![image](https://user-images.githubusercontent.com/16688207/192126995-4917b741-e00c-481f-ad2b-d5eb0da89f71.png)
+
 # Video Demo
 
 https://youtu.be/UJcYY58Rsu4
