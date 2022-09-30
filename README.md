@@ -35,9 +35,8 @@ https://youtu.be/UJcYY58Rsu4
 - Asana
 - Figma
 
-## Tools and Technologies:
+## Contributers:
 
-### Contributers:
 - Mohammad Nayeem
 - Albert Chen
 - Yuet Ho
